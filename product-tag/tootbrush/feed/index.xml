@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>tootbrush &#8211; pharma</title>
+	<atom:link href="https://roaajouda.github.io/pharma-wordpress/product-tag/tootbrush/feed/" rel="self" type="application/rss+xml" />
+	<link>https://roaajouda.github.io/pharma-wordpress</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Feb 2024 19:09:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Electric toothbrush</title>
+		<link>https://roaajouda.github.io/pharma-wordpress/product/electric-toothbrush/</link>
+					<comments>https://roaajouda.github.io/pharma-wordpress/product/electric-toothbrush/#respond</comments>
+		
+		<dc:creator><![CDATA[roaa]]></dc:creator>
+		<pubDate>Fri, 09 Feb 2024 12:58:46 +0000</pubDate>
+				<guid isPermaLink="false">https://roaajouda.github.io/pharma-wordpress/?post_type=product#038;p=26</guid>
+
+					<description><![CDATA[Ornare massa eget egestas purus viverra. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi.Aliquam etiam erat velit scelerisque in dictum non. Sit amet cursus sit amet dictum. Justo laoreet sit amet cursus. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tempor id eu nisl nunc mi ipsum faucibus vitae. Dui ut ornare lectus sit. Adipiscing at in tellus integer feugiat]]></description>
+										<content:encoded><![CDATA[<p>Aliquam etiam erat velit scelerisque in dictum non. Sit amet cursus sit amet dictum. Justo laoreet sit amet cursus. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tempor id eu nisl nunc mi ipsum faucibus vitae. Dui ut ornare lectus sit. Adipiscing at in tellus integer feugiat scelerisque varius morbi enim. Lectus nulla at volutpat diam. Odio morbi quis commodo odio aenean sed</p>
+<p><img decoding="async" class="wp-image-27 alignleft" src="https://roaajouda.github.io/pharma-wordpress/wp-content/uploads/2024/02/Electric-Toothbrush-Set-Black.jpg" alt="" width="137" height="137" />adipiscing diam donec. Arcu cursus vitae congue mauris. Consequat interdum varius sit amet mattis vulputate enim. Mauris vitae ultricies leo integer malesuada nunc vel</p>
+<p>Ornare massa eget egestas purus viverra. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://roaajouda.github.io/pharma-wordpress/product/electric-toothbrush/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
